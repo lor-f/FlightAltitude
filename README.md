@@ -31,3 +31,4 @@ shown below:
        Stagnation temperature: 3131.62791278342 K 
 
 Additionally, a simple postprocessing script was written to show altitude results graphically for different Mach numbers and dynamic pressures:
+![Screenshot](AltitudeVsMachVsPDyn.png)
