@@ -30,4 +30,4 @@ shown below:
        Airspeed: 2417.35821866300 m/s 
        Stagnation temperature: 3131.62791278342 K 
 
-Additionally, the a simple postprocessing script was written to show altitude results graphically for different Mach numbers and dynamic pressures:
+Additionally, a simple postprocessing script was written to show altitude results graphically for different Mach numbers and dynamic pressures:
