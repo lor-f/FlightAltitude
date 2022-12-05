@@ -1,5 +1,3 @@
-# FlightAltitude
-
 # Introduction
 Flight vehicles - specifically propulsive systems in the supersonic regime - are typically designed to operate at a fixed dynamic pressure for a 
 specified Mach number. Since the dynamic pressure is a function of local air properties
